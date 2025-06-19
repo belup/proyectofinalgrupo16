@@ -64,7 +64,41 @@ Transformación:
 -Transformamos los atributos de las columnas Tipos de ataque, Acción tomada, Nivel de gravedad y Datos de geolocalización a valores numéricos
 
 -Comenzamos normalización de la columna Datos de geolocalización  
-
-
 Herramientas utilizadas: Pandas, Numpy, Seaborn, Matplotlib.pyplot, Scipy.stats, Sklearn.preprocessin (LabelEncoder, Normalizer)
+
+Pre entrega 3 de Data Science.
+
+Tema: Ciberseguridad
+
+Objetivo: En esta entrega buscamos cuales fueron los paises que más ataques tubieron y de que tipo, cual fue el horario más buscado para el ataque y la industria más afectada y si el ataque fue exitoso o no.
+
+Metodología: 
+-Visualización del dataset, de la cantidad de sus columnas y filas, nombre y tipo de las columnas, faltantes.
+
+-Al no haber faltantes realizamos una revisón más extensa.
+
+-Eliminamos features que no nos aportaban valor al trabajo.
+
+-Convertimos la columna datetime a dos columas separadas de fecha y hora, dejando en fecha solamente el año y en hora solo la hora.
+
+-Creación de tabla pivot para chequear nombres de features.
+
+-Creacion de mapa de calor para ver las cantidades por tipo y país.
+
+-Creación de gráfico de severidad de ataque por industría.
+
+-Contamos cuántos ataques hubo por hora y deducimos la hora más frecuente.
+
+-Creación de tabla de exitos y fracasos de ataques cibernéticos.
+
+-Gráficos de cantidad de ataques por país.
+
+-Transformación de datos numéricos usando Labelencoder.
+
+-Transformación de datos categóricos usando Onehotencoder.
+
+-Uso de SVM para el cual lo estandarizamos usando Standard Scaler.
+
+
+
 
