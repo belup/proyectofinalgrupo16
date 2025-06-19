@@ -15,9 +15,9 @@ Integrantes:
 -Belén Pellejero
 
 
-Dataset utilizado:
+Datasets utilizados:
 
-Descargado de Kaggel: https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data
+Descargado de Kaggel: https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
 
 Estructura del repositorio:
