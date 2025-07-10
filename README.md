@@ -136,25 +136,25 @@ Metodología
 
 -Evaluación de clusters usando silhouette
 
-- Gráfico para visualizar los clusters usando DBSCAN (PCA)
+-Gráfico para visualizar los clusters usando DBSCAN (PCA)
 
-- Cálculo y gráfico de k-distancias
+-Cálculo y gráfico de k-distancias
 
-- Visualización con PCA
+-Visualización con PCA
 
-- Gráfico del metodo codo
+-Gráfico del metodo codo
 
-- Prueba con distintos k para asegurarnos
+-Prueba con distintos k para asegurarnos
 
-- Gráfico de clustering de ataques cibernéticos con PCA 
+-Gráfico de clustering de ataques cibernéticos con PCA 
 
-- Kmeans, fit y predict
+-Kmeans, fit y predict
 
-- Entrenamiento del modelo con K clusters, obtención de centroides y visualización
+-Entrenamiento del modelo con K clusters, obtención de centroides y visualización
 
-- Comparación visual de clusters con Kmeans vs. DBSCAN
+-Comparación visual de clusters con Kmeans vs. DBSCAN
 
-- Comparación de silhouette score con Kmeans vs. DBSCAN
+-Comparación de silhouette score con Kmeans vs. DBSCAN
 
 -Conclusión 
 
